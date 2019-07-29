@@ -51,7 +51,7 @@ void SListreverse(SList* plist)
 	}
 	 
 }
-int main()
+int main2()
 {
 	/*ÊäÈë£º(2 -> 4 -> 3) + (5 -> 6 -> 4)
 		Êä³ö£º7 -> 0 -> 8
