@@ -24,5 +24,8 @@
     <ClCompile Include="zui_chang_zi_chuan.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="zhong_wei_shu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
