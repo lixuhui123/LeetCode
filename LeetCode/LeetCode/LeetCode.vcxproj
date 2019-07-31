@@ -118,6 +118,8 @@
     <ClCompile Include="ListNode.cpp" />
     <ClCompile Include="two_nums_add.cpp" />
     <ClCompile Include="zhong_wei_shu.cpp" />
+    <ClCompile Include="zui_chang_hui_wen.c" />
+    <ClCompile Include="zui_chang_hui_wen_string.c" />
     <ClCompile Include="zui_chang_zi_chuan.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
