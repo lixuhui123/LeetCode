@@ -33,5 +33,11 @@
     <ClCompile Include="zui_chang_hui_wen.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="test_++i_i++.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="zheng_shu_fan_zhuan.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
