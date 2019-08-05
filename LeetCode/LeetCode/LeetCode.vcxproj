@@ -117,7 +117,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ListNode.cpp" />
+    <ClCompile Include="play.cpp" />
     <ClCompile Include="test_++i_i++.cpp" />
+    <ClCompile Include="test_if.cpp" />
     <ClCompile Include="two_nums_add.cpp" />
     <ClCompile Include="zheng_shu_fan_zhuan.cpp" />
     <ClCompile Include="zhong_wei_shu.cpp" />

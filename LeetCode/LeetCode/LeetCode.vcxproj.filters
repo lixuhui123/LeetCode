@@ -39,5 +39,11 @@
     <ClCompile Include="zheng_shu_fan_zhuan.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="test_if.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="play.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
